@@ -1,0 +1,35 @@
+/* 
+
+.sideBar div
+ {
+  padding: 6px 8px 6px 16px;
+  text-decoration: none;
+  font-size: 20px;
+  color: rgb(255, 255, 255);
+  display: block;
+}
+
+.sideBar div:hover {
+  color: #ffffff;
+  background-color: #017760;
+  cursor: pointer;
+}
+
+.active{
+    background-color: #005040;
+    
+}
+
+
+#projectName{
+    font-size: xx-large;
+    font-weight: bolder;
+    color: #f1f1f1;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+     
+}
+
+#projectName:hover{
+    background-color: initial;
+}
+ */
